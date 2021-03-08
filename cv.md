@@ -54,3 +54,5 @@ Speciality: Electrical stations and substations.
 ### **Language:**
 English: Elementary (A2).
 
+### **PERSONAL QUALITIES**
+Responsibility, dedication, learning, the ability to work in a team and not be afraid of difficulties, the ability to prioritize assigned tasks and allocate time for their implementation. Driving license (A, B, C).
